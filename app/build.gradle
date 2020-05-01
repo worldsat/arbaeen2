@@ -7,7 +7,7 @@ android {
         applicationId "com.jamali.arbaeen"
         minSdkVersion 18
         targetSdkVersion 29
-        versionCode 1
+        versionCode 7
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -25,7 +25,7 @@ android {
         release {
             keyAlias 'mohsen'
             keyPassword '44404530'
-            storeFile file('C:/Users/Moh3nJ/Desktop/key.jks')
+            storeFile file('C:/Users/sepideh/Desktop/key.jks')
             storePassword '44404530'
         }
 //        debug {
